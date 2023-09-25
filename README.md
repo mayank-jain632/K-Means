@@ -1,2 +1,2 @@
 # K-Means
-This is a K-Means algorithin, created completely from scratch in python using Google Colab. K-means clustering tries to group similar kinds of items in form of cluster,  it finds the similarities between these items and groups them into these clusters for organization.
+This is a K-Means algorithm, created completely from scratch in Python using Google Colab. K-means clustering tries to group similar kinds of items in the form of clusters,  it finds the similarities between these items and groups them into these clusters for organization. This algorithm is designed to work on images (a sample image is provided) and the "K" value in the final code cell can be adjusted in correspondence with the desired amount of clusters. 
